@@ -1,4 +1,4 @@
-# Desenvolvimento_de_Algoritmos_e_Pensamento_Computacional-Calculadora_em_C
+# Pensamento-computacional-c
 
 # Calculadora de 20 Operações em C
 
